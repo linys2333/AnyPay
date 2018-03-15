@@ -1,0 +1,10 @@
+
+.vs
+obj
+bin
+packages
+debug
+publish
+Logs
+
+*.csproj.user
